@@ -48,7 +48,7 @@ body {
   }
   
   .full {
-    background-image: url("/img/img_Sea.jpeg");
+    background-image: url("https://github.com/MickaelRayan/test0922_lesson/blob/main/img/img_Sea.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
