@@ -66,7 +66,7 @@ body {
     display: inline-block;
   }
   .full::before {
-    background-image: url("/img/img_Sea.jpeg");
+    background-image: url("https://github.com/MickaelRayan/test0922_lesson/blob/main/img/img_Sea.jpeg?raw=true");
     content: "";
   }
   h1,h2 { color: #303030; }
