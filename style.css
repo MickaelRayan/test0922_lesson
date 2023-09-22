@@ -63,6 +63,7 @@ body {
     position: relative;
     width: 100%;
     min-height: 100vh;
+    display: inline-block;
   }
   h1,h2 { color: #303030; }
   h1 {
